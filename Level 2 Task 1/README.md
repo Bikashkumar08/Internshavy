@@ -3,13 +3,6 @@
 ## I used open weather API to fetch data 
 
 ### This  web project done in html,css ,js
-
-
- 
- #### netlify link
- 
- https://spweather.netlify.app/
- 
 ### Features of the project.
 
 * It provide dynamic weather data like temp, min max temp etc.
